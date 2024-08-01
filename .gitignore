@@ -1,0 +1,8 @@
+
+.env
+*.db
+*.sqlite
+instance/
+.idea/
+.vscode/
+.DS_Store
